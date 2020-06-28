@@ -4,4 +4,6 @@
 
 - Ms Lauryn Hill v. Emily Bronte
 
-- Kanye v. Kafka
+- Kanye v. Franz Kafka
+
+- Drake v. Mark Twain
