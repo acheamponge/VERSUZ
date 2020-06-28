@@ -7,3 +7,5 @@
 - Kanye v. Franz Kafka
 
 - Drake v. Mark Twain
+
+- Lil Wayne v. Shakespeare
