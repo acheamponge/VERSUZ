@@ -9,3 +9,4 @@
 - Drake v. Mark Twain
 <img src="https://github.com/acheamponge/VERSUZ/blob/master/img/1.jpg" align="middle" height="340" width="400">
 - Lil Wayne v. Shakespeare
+<img src="https://github.com/acheamponge/VERSUZ/blob/master/img/3.JPG" align="middle" height="340" width="400">
