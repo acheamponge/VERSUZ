@@ -2,6 +2,10 @@
 
 ## A Hiphop v. Literature NLP project
 
+### - Data
+Data of Lyrics from the hip-hop artists was scraped from Genius, Data of the novels from the writters was scraped from the Guttenberg Project and other online sources.
+
+
 - Ms Lauryn Hill v. Emily Bronte:
 <br /> Emily Bronte's "Wuthering Heights" and Ms. Lauryn Hill's "The Miseducation of Lauryn Hill" are considered classics in their respective fields. Again Ms. Lauryn was part of the talented hip-hop group Fugees and Emily can be said to be part of the talented sister group the Bronte sisters.
 <img src="https://github.com/acheamponge/VERSUZ/blob/master/img/0.jpg" align="middle" height="340" width="400">
