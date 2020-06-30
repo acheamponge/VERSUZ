@@ -3,9 +3,9 @@
 ## A Hiphop v. Literature NLP project
 
 - Ms Lauryn Hill v. Emily Bronte
-![Hill v Bronte](/img/0.jpg){:width="100px"}
+<img src="https://github.com/acheamponge/VERSUZ/blob/master/img/0.jpg" align="middle" height="400" width="400">
 - Kanye v. Franz Kafka
-![Yeezy v Kafka](/img/2.jpg){:width="100px"}
+<img src="https://github.com/acheamponge/VERSUZ/blob/master/img/2.jpg" align="middle" height="400" width="400">
 - Drake v. Mark Twain
-![Drake v Twain](/img/1.jpg){:width="100px"}
+<img src="https://github.com/acheamponge/VERSUZ/blob/master/img/1.jpg" align="middle" height="400" width="400">
 - Lil Wayne v. Shakespeare
