@@ -1,5 +1,7 @@
 # VERSUZ
-A Hiphop v. Literature NLP project- The main motivation for this project is to demonstrate using NLP that Hip-Hop is a form of literature and rap artists are literary geniuses.
+### A Hiphop v. Literature NLP project
+
+The main motivation for this project is to demonstrate using NLP that Hip-Hop is a form of literature and rap artists are literary geniuses.
 
 
 ### - Data
