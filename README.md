@@ -37,3 +37,8 @@ Data of Lyrics from the hip-hop artists was scraped from Genius, Data of the nov
 <br />
 <br /> Lil Wayne and Shakespeare are very prolific in their respective fields. Lil Wayne has 168 billboard hot 100 entries and Shakespeare is believed to have written ~37 plays.
 <img src="https://github.com/acheamponge/VERSUZ/blob/master/img/3.JPG" align="middle" height="340" width="400">
+
+
+- Nicki Minaj v. Jane Austen:
+<br />
+<img src="https://github.com/acheamponge/VERSUZ/blob/master/img/4.jpg" align="middle" height="340" width="400">
